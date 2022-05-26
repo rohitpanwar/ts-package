@@ -7,17 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "deploy": "npm publish",
-    "release": "release-please && git push --follow-tags && npm publish"
+    "release": "release-please"
   },
   "keywords": [],
   "author": "Rohit Panwar",
   "license": "ISC",
   "devDependencies": {
+    "release-please": "^13.17.0",
     "typescript": "^4.6.4"
   },
-  "dependencies": {
-    "release-please": "^13.17.0"
-  },
+  "dependencies": {},
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rohitpanwar"
   }
