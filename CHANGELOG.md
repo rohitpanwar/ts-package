@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/rohitpanwar/ts-package/compare/v1.0.1...v1.1.0) (2022-05-26)
+
+
+### Features
+
+* **new feature:** testing standard version ([a2faf9d](https://github.com/rohitpanwar/ts-package/commit/a2faf9d4d4b02ef67e067f4802fe1a412f4a4944))
+
 ### 1.0.1 (2022-05-26)
 
 
